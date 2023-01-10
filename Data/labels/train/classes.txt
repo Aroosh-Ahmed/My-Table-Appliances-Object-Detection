@@ -1,0 +1,7 @@
+DoubleTape
+Comb
+Glasses
+Scissors
+MeasuringTape
+BulbHolder
+Mouse
