@@ -17,3 +17,14 @@ There were the following 7 classes in the data
 Here are some results : 
 
 ![plot](https://github.com/ArshAhmadDogar/My-Table-Appliances-Object-Detection/blob/master/results/2023-01-08%20143035.jpg)
+![plot](https://github.com/ArshAhmadDogar/My-Table-Appliances-Object-Detection/blob/master/results/1.jpg)
+![plot](https://github.com/ArshAhmadDogar/My-Table-Appliances-Object-Detection/blob/master/results/2023-01-08%20135058.jpg)
+
+![plot](https://github.com/ArshAhmadDogar/My-Table-Appliances-Object-Detection/blob/master/results/val_batch0_labels.jpg)
+
+## Training Results 
+
+Training results can be seen from follwing figures
+
+![plot](https://github.com/ArshAhmadDogar/My-Table-Appliances-Object-Detection/blob/master/results/results.png)
+
